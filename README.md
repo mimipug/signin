@@ -12,8 +12,7 @@ A modern and responsive **Sign-In Page** built for web applications. This compon
 
 ## 📸 Preview
 
-![Sign-In Page Screenshot](4.png)  
-*Note: Replace with actual screenshot if available.*
+![Sign-In Page Screenshot](4.png) 
 
 ## 🛠️ Tech Stack
 
